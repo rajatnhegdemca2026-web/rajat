@@ -1,0 +1,33 @@
+RAJAT HEGDE
+First year MCA student | Udupi, Karnataka
+Email: hrajat951@gmail.com
+
+PROFILE
+MCA student interested in software development, building skills through projects and learning.
+
+EDUCATION
+Master of Computer Applications | Poornaprajna Institute of Management (PIM), Udupi
+2026–2028 | Pursuing | Computer Applications & Software Development
+
+Bachelor of Computer Applications | Poornaprajna College, Udupi
+2023–2026 | Completed | Computer Applications | 7 CGPA
+
+PROGRAMMING LANGUAGES — SELF-ASSESSED
+C: Basic; C++: Basic; Java: Basic; Python: Basic; JavaScript: Basic; PHP: Basic; HTML: Basic
+
+TECHNOLOGIES
+HTML (Intermediate), CSS (Intermediate), JavaScript (Advanced), Next.js, Node.js, Express.js,
+MySQL (Basic), PostgreSQL, GitHub, Linux (Basic), NumPy, Pandas, AWS, GitHub Pages,
+Data Structures and Algorithms
+
+PROJECT
+AI Meal Planner — Completed
+A free, budget-conscious 7-day Indian meal plan based on goals, food type, and budget.
+Contribution: Designed the frontend layout and wrote JavaScript logic to generate meal plans
+based on user input; worked on both frontend and backend.
+Technologies listed: C, C++, Java, Python, HTML, R, PHP.
+
+INTERESTS
+Web Development, Full-Stack Development, Artificial Intelligence, Machine Learning
+Target roles: Software Developer, Web Developer, Mobile App Developer
+Languages: English, Kannada
